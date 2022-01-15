@@ -1,7 +1,17 @@
+import axios from "axios";
 import MovieCard from "../../MovieCard";
 import Pagination from "../../Pagination";
 
 function Listing() {
+
+
+  // FORMA ERRADA
+  axios.get('https://dev-aclara-dsmovie.herokuapp.com/movies/2')
+    .then(response => {
+      console.log(response.data);
+    });
+
+
   return (
     <>
       <Pagination />
