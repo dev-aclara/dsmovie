@@ -46,12 +46,10 @@ O **DSMovie** é uma aplicação web completa, utilizando Spring Boot no back en
 ## ⚙️ Ferramentas e Tecnologias
 - JDK 17
 - STS
-- Postman
-- Postgresql 12 e pgAdmin
+- Postgresql e pgAdmin
 - Heroku CLI
 - NodeJS 16.x 
 - VS Code
-- PostgreSQL
 - Postman
 - Git
 - Database H2
