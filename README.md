@@ -67,7 +67,7 @@ Pré-requisitos: npm / yarn
 
 ```
 # clonar repositório
-git clone https://github.com/dev-aclara/dsmovie
+git clone https://github.com/dev-aclara/dsmovie.git
 
 # entrar na pasta do projeto 
 cd dsmovie
