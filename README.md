@@ -1,6 +1,6 @@
 ## ⚡️ **DSMovie**
 
-## [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/dev-aclara/dsmovie/blob/main/LICENSE)  ![GitHub last commit](https://img.shields.io/github/last-commit/dev-aclara/dsmovie) ![GitHub repo size](https://img.shields.io/github/repo-size/dev-aclara/dsmovie) ![GitHub followers](https://img.shields.io/github/followers/dev-aclara?style=social)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/dev-aclara/dsmovie/blob/main/LICENSE) 
 
 <br>
 Repositório criado para armazenar o que foi desenvolvido na Semana Spring React - Bootcamp promovido pela escola DevSuperior em Janeiro/2022.
